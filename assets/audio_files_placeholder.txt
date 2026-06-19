@@ -1,0 +1,10 @@
+Original hackathon audio files are unavailable.
+
+The application was designed to use:
+
+- help1.mp3
+- help2.mp3
+- help3.mp3
+- siren.mp3
+
+These files can be replaced with custom emergency recordings and siren sounds.
