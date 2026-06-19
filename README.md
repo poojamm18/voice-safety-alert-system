@@ -99,7 +99,8 @@ Siren Sound Played
 
 ```text
 voice-safety-alert-system
-│
+|__ Screenshots
+|   |__screenshots of solution,team members info and description of technologies used
 ├── assets
 │   └── audio_files_placeholder.txt
 │
